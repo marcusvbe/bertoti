@@ -13,7 +13,7 @@ aparece em vermelho e dá ao usuário uma forma fácil de resolver o problema, c
 ![reclame_aqui1](https://github.com/marcusvbe/bertoti/assets/73323386/a7dc5185-09b7-4a79-88d4-07c54e2755f2)
 ![reclame_aqui2](https://github.com/marcusvbe/bertoti/assets/73323386/8af938b9-1555-4ab0-8de1-f41f9f649397)
 
-Ao clicar no campo de busca da página inicial, o site exibe as empresas mais buscadas e oculta o campo de busca.
+Ao clicar no campo de busca, o site exibe as empresas mais buscadas e oculta o campo de busca.
 O controle do usuário é prejudicado.
 
 
