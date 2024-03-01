@@ -17,6 +17,7 @@ Ao clicar no campo de busca, o site não permite que o usuário faça sua busca,
 É um comportamento inconsistente e fora dos padrões. 
 ##
 3) Erro Heurística 8:
+##
 ![site_carregado](https://github.com/marcusvbe/bertoti/assets/73323386/30012438-2cc9-4c64-9db0-e3966a80a338)
 ##
 O site tem excesso de informações. O fundo colorido nas laterais satura, sem necessidade, uma página que já tem elementos demais.
