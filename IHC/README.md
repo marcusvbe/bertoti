@@ -1,2 +1,6 @@
-Atividade da matéria Interação Humano-COmputador
-Prof. Bertoti
+Análise baseada no texto:
+10 Usability Heuristics for User Interface Design
+
+https://www.nngroup.com/articles/ten-usability-heuristics/
+
+
