@@ -1,2 +1,2 @@
-Atividade da matéria Interação Humano-COmputador
+Atividade da matéria Interação Humano-Computador
 Prof. Bertoti
